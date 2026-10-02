@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "label": "TRANSMISIÓN EN VIVO",
+  "logoUrl": "",
+  "tagBgColor": "#2563eb",
+  "tagTextColor": "#ffffff",
+  "opacity": 0.95,
+  "applyToVideosOnly": false
+}

@@ -1,0 +1,37 @@
+{
+  "monday": {
+    "enabled": true,
+    "intervalSeconds": 10,
+    "items": []
+  },
+  "tuesday": {
+    "enabled": true,
+    "intervalSeconds": 10,
+    "items": []
+  },
+  "wednesday": {
+    "enabled": true,
+    "intervalSeconds": 10,
+    "items": []
+  },
+  "thursday": {
+    "enabled": true,
+    "intervalSeconds": 10,
+    "items": []
+  },
+  "friday": {
+    "enabled": true,
+    "intervalSeconds": 10,
+    "items": []
+  },
+  "saturday": {
+    "enabled": true,
+    "intervalSeconds": 10,
+    "items": []
+  },
+  "sunday": {
+    "enabled": true,
+    "intervalSeconds": 10,
+    "items": []
+  }
+}
